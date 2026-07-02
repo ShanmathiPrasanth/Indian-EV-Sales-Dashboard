@@ -52,7 +52,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-[Indian EV Sales Dashboard]/(EV_Sales_Dashboard.png)
+[Indian EV Sales Dashboard](EV_Sales_Dashboard.png)
 ---
 
 ## 🚀 Future Improvements
